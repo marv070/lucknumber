@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
-ruby '2.3.3'
+source 'http://rubygems.org'
+ruby '2.2.4'
 gem 'sinatra'
 gem 'rack'
 gem 'rack-test'

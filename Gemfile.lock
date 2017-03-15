@@ -13,12 +13,16 @@ GEM
     tilt (2.0.6)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
   rack
   rack-test
   sinatra
+
+RUBY VERSION
+   ruby 2.2.4p230
 
 BUNDLED WITH
    1.14.5
